@@ -1,13 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-// import Imgflip from 'imgflip'
-
-// https://imgflip.com/signup
-// const imgflip = new Imgflip({
-//   username: 'NipunBatra',
-//   password: '!2AkhtgpWriK9ny'
-// })
 
 function Square(props) {
   return (
